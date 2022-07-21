@@ -1,4 +1,4 @@
-# Welcome to DATA 310 Applied Machine Learning!
+# Welcome to DATA 310 Applied Machine Learning
 
 ### DATA 310 Applied Machine Learning Projects:
 
